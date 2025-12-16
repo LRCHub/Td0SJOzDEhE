@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "一匙のお姫さま物語",
+  "base_artist": "Petit Rabbit's",
+  "createdAt": "2025-12-16T19:15:48.809813Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "一匙のお姫さま物語",
+      "artist": "Petit Rabbit's",
+      "has_synced": true,
+      "path": "select/01_一匙のお姫さま物語_Petit_Rabbit's.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "一匙のお姫さま物語",
+      "artist": "Petit Rabbit’s",
+      "has_synced": false,
+      "path": "select/02_一匙のお姫さま物語_Petit_Rabbit’s.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "一匙のお姫さま物語",
+      "artist": "Petit Rabbit’s",
+      "has_synced": true,
+      "path": "select/03_一匙のお姫さま物語_Petit_Rabbit’s.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "一匙のお姫さま物語",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/04_一匙のお姫さま物語_Various_Artists.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "一匙のお姫さま物語",
+      "artist": "Petit Rabbit's",
+      "has_synced": false,
+      "path": "select/pl_01_一匙のお姫さま物語_Petit_Rabbit's.txt"
+    }
+  ]
+}
